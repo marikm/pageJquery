@@ -1,0 +1,19 @@
+{
+  "name": "page-jquery",
+  "version": "1.0.0",
+  "description": "uma pagina com jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marikm/pageJquery.git"
+  },
+  "author": "Camilo Italo, Marina Matsumoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marikm/pageJquery/issues"
+  },
+  "homepage": "https://github.com/marikm/pageJquery#readme"
+}
